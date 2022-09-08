@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fsn2AQNSvahWk4pEBNKSpKAL7c2EYnF9D2Ykd6BzD8ZvqpBDAoB9Ddquh9wl4V4hBkwYsOMdZC7fUvcSQp3fqw==",
+  "dgSpecHash": "sfbwISJPeFCMWAHqAmsQPdkuUywMoWCybuZESAirgxfyFiljlwyUXujlrFgeintwvrJDSiKixtRoAsdG7dfT+A==",
   "success": true,
-  "projectFilePath": "C:\\NetCore\\Demo\\Demo.csproj",
+  "projectFilePath": "C:\\NetCore\\LeThanhNam_BTH\\Demo\\Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

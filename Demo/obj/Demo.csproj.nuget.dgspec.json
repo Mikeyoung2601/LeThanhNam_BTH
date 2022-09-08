@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NetCore\\Demo\\Demo.csproj": {}
+    "C:\\NetCore\\LeThanhNam_BTH\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\NetCore\\Demo\\Demo.csproj": {
+    "C:\\NetCore\\LeThanhNam_BTH\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NetCore\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\NetCore\\LeThanhNam_BTH\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\NetCore\\Demo\\Demo.csproj",
+        "projectPath": "C:\\NetCore\\LeThanhNam_BTH\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-        "outputPath": "C:\\NetCore\\Demo\\obj\\",
+        "outputPath": "C:\\NetCore\\LeThanhNam_BTH\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config"

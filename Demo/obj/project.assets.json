@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NetCore\\Demo\\Demo.csproj",
+      "projectUniqueName": "c:\\NetCore\\LeThanhNam_BTH\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\NetCore\\Demo\\Demo.csproj",
+      "projectPath": "c:\\NetCore\\LeThanhNam_BTH\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-      "outputPath": "C:\\NetCore\\Demo\\obj\\",
+      "outputPath": "c:\\NetCore\\LeThanhNam_BTH\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config"
